@@ -31,3 +31,11 @@ td:nth-child(1) {
 td:nth-child(3) {
 	border-bottom: none;
 }
+#turn {
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 16pt;
+	background-color: #777777;
+	width: 340px;
+}
