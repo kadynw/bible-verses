@@ -11,3 +11,23 @@
 p {
 	font-size: 1.2em;
 }
+td {
+	border: 5px solid black;
+	width: 100px;
+	height: 100px;
+	font-size: 80px;
+	text-align: center;
+	font-family: sans;
+}
+td:nth-child(1) {
+	border-left: none;
+}
+td:nth-child(3) {
+	border-right: none;
+}
+td:nth-child(1) {
+	border-top: none;
+}
+td:nth-child(3) {
+	border-bottom: none;
+}
