@@ -1,13 +1,10 @@
-<p>
-#bold { 
+p { 
 	font-weight: bold;
 }
-<h1>
-.red { 
+a { 
 	color: red;
 }
 
-<a>
-p {
+h1 {
 	font-size: 1.2em;
 }
