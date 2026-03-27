@@ -1,13 +1,13 @@
-/* id-based rule */
+<p>
 #bold { 
 	font-weight: bold;
 }
-/* class-based rule */
+<h1>
 .red { 
 	color: red;
 }
 
-/* element-based or tag-based rule */
+<a>
 p {
 	font-size: 1.2em;
 }
